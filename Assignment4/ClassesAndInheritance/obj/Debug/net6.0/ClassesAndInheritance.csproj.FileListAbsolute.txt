@@ -1,0 +1,15 @@
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\ClassesAndInheritance\obj\Debug\net6.0\ClassesAndInheritance.csproj.AssemblyReference.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\ClassesAndInheritance\obj\Debug\net6.0\ClassesAndInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\ClassesAndInheritance\obj\Debug\net6.0\ClassesAndInheritance.AssemblyInfoInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\ClassesAndInheritance\obj\Debug\net6.0\ClassesAndInheritance.AssemblyInfo.cs
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\ClassesAndInheritance\obj\Debug\net6.0\ClassesAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\ClassesAndInheritance\bin\Debug\net6.0\ClassesAndInheritance.exe
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\ClassesAndInheritance\bin\Debug\net6.0\ClassesAndInheritance.deps.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\ClassesAndInheritance\bin\Debug\net6.0\ClassesAndInheritance.runtimeconfig.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\ClassesAndInheritance\bin\Debug\net6.0\ClassesAndInheritance.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\ClassesAndInheritance\bin\Debug\net6.0\ref\ClassesAndInheritance.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\ClassesAndInheritance\bin\Debug\net6.0\ClassesAndInheritance.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\ClassesAndInheritance\obj\Debug\net6.0\ClassesAndInheritance.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\ClassesAndInheritance\obj\Debug\net6.0\ref\ClassesAndInheritance.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\ClassesAndInheritance\obj\Debug\net6.0\ClassesAndInheritance.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\ClassesAndInheritance\obj\Debug\net6.0\ClassesAndInheritance.genruntimeconfig.cache

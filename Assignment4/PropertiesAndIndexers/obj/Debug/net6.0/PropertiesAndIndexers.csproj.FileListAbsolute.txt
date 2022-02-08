@@ -1,0 +1,15 @@
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\PropertiesAndIndexers\obj\Debug\net6.0\PropertiesAndIndexers.csproj.AssemblyReference.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\PropertiesAndIndexers\obj\Debug\net6.0\PropertiesAndIndexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\PropertiesAndIndexers\obj\Debug\net6.0\PropertiesAndIndexers.AssemblyInfoInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\PropertiesAndIndexers\obj\Debug\net6.0\PropertiesAndIndexers.AssemblyInfo.cs
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\PropertiesAndIndexers\obj\Debug\net6.0\PropertiesAndIndexers.csproj.CoreCompileInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\PropertiesAndIndexers\bin\Debug\net6.0\PropertiesAndIndexers.exe
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\PropertiesAndIndexers\bin\Debug\net6.0\PropertiesAndIndexers.deps.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\PropertiesAndIndexers\bin\Debug\net6.0\PropertiesAndIndexers.runtimeconfig.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\PropertiesAndIndexers\bin\Debug\net6.0\PropertiesAndIndexers.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\PropertiesAndIndexers\bin\Debug\net6.0\ref\PropertiesAndIndexers.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\PropertiesAndIndexers\bin\Debug\net6.0\PropertiesAndIndexers.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\PropertiesAndIndexers\obj\Debug\net6.0\PropertiesAndIndexers.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\PropertiesAndIndexers\obj\Debug\net6.0\ref\PropertiesAndIndexers.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\PropertiesAndIndexers\obj\Debug\net6.0\PropertiesAndIndexers.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment4\PropertiesAndIndexers\obj\Debug\net6.0\PropertiesAndIndexers.genruntimeconfig.cache
