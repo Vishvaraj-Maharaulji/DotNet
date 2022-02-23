@@ -1,0 +1,15 @@
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\SortingExample\bin\Debug\net6.0\SortingExample.exe
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\SortingExample\bin\Debug\net6.0\SortingExample.deps.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\SortingExample\bin\Debug\net6.0\SortingExample.runtimeconfig.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\SortingExample\bin\Debug\net6.0\SortingExample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\SortingExample\bin\Debug\net6.0\ref\SortingExample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\SortingExample\bin\Debug\net6.0\SortingExample.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\SortingExample\obj\Debug\net6.0\SortingExample.csproj.AssemblyReference.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\SortingExample\obj\Debug\net6.0\SortingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\SortingExample\obj\Debug\net6.0\SortingExample.AssemblyInfoInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\SortingExample\obj\Debug\net6.0\SortingExample.AssemblyInfo.cs
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\SortingExample\obj\Debug\net6.0\SortingExample.csproj.CoreCompileInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\SortingExample\obj\Debug\net6.0\SortingExample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\SortingExample\obj\Debug\net6.0\ref\SortingExample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\SortingExample\obj\Debug\net6.0\SortingExample.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\SortingExample\obj\Debug\net6.0\SortingExample.genruntimeconfig.cache

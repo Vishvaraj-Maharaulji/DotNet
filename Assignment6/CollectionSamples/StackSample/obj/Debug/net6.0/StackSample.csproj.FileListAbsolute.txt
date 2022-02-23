@@ -1,0 +1,30 @@
+D:\DotNetAssignment\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\StackSample.exe
+D:\DotNetAssignment\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\StackSample.deps.json
+D:\DotNetAssignment\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\StackSample.runtimeconfig.json
+D:\DotNetAssignment\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\StackSample.dll
+D:\DotNetAssignment\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\ref\StackSample.dll
+D:\DotNetAssignment\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\StackSample.pdb
+D:\DotNetAssignment\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.csproj.AssemblyReference.cache
+D:\DotNetAssignment\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetAssignment\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfoInputs.cache
+D:\DotNetAssignment\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfo.cs
+D:\DotNetAssignment\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.dll
+D:\DotNetAssignment\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\ref\StackSample.dll
+D:\DotNetAssignment\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.pdb
+D:\DotNetAssignment\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.genruntimeconfig.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\StackSample.exe
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\StackSample.deps.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\StackSample.runtimeconfig.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\StackSample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\ref\StackSample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\StackSample.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.csproj.AssemblyReference.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfoInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfo.cs
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.csproj.CoreCompileInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\ref\StackSample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.genruntimeconfig.cache

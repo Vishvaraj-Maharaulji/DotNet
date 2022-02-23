@@ -1,0 +1,30 @@
+D:\DotNetAssignment\Assignment6\collectionSamples\DictionarySample\bin\Debug\net6.0\DictionarySample.exe
+D:\DotNetAssignment\Assignment6\collectionSamples\DictionarySample\bin\Debug\net6.0\DictionarySample.deps.json
+D:\DotNetAssignment\Assignment6\collectionSamples\DictionarySample\bin\Debug\net6.0\DictionarySample.runtimeconfig.json
+D:\DotNetAssignment\Assignment6\collectionSamples\DictionarySample\bin\Debug\net6.0\DictionarySample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\DictionarySample\bin\Debug\net6.0\ref\DictionarySample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\DictionarySample\bin\Debug\net6.0\DictionarySample.pdb
+D:\DotNetAssignment\Assignment6\collectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.csproj.AssemblyReference.cache
+D:\DotNetAssignment\Assignment6\collectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetAssignment\Assignment6\collectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.AssemblyInfoInputs.cache
+D:\DotNetAssignment\Assignment6\collectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.AssemblyInfo.cs
+D:\DotNetAssignment\Assignment6\collectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment\Assignment6\collectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\DictionarySample\obj\Debug\net6.0\ref\DictionarySample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.pdb
+D:\DotNetAssignment\Assignment6\collectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.genruntimeconfig.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\DictionarySample\bin\Debug\net6.0\DictionarySample.exe
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\DictionarySample\bin\Debug\net6.0\DictionarySample.deps.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\DictionarySample\bin\Debug\net6.0\DictionarySample.runtimeconfig.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\DictionarySample\bin\Debug\net6.0\DictionarySample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\DictionarySample\bin\Debug\net6.0\ref\DictionarySample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\DictionarySample\bin\Debug\net6.0\DictionarySample.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.csproj.AssemblyReference.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.AssemblyInfoInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.AssemblyInfo.cs
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.csproj.CoreCompileInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\DictionarySample\obj\Debug\net6.0\ref\DictionarySample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.genruntimeconfig.cache

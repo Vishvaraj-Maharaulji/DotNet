@@ -1,0 +1,30 @@
+D:\DotNetAssignment\Assignment6\collectionSamples\QueueSample\bin\Debug\net6.0\QueueSample.exe
+D:\DotNetAssignment\Assignment6\collectionSamples\QueueSample\bin\Debug\net6.0\QueueSample.deps.json
+D:\DotNetAssignment\Assignment6\collectionSamples\QueueSample\bin\Debug\net6.0\QueueSample.runtimeconfig.json
+D:\DotNetAssignment\Assignment6\collectionSamples\QueueSample\bin\Debug\net6.0\QueueSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\QueueSample\bin\Debug\net6.0\ref\QueueSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\QueueSample\bin\Debug\net6.0\QueueSample.pdb
+D:\DotNetAssignment\Assignment6\collectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.csproj.AssemblyReference.cache
+D:\DotNetAssignment\Assignment6\collectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetAssignment\Assignment6\collectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.AssemblyInfoInputs.cache
+D:\DotNetAssignment\Assignment6\collectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.AssemblyInfo.cs
+D:\DotNetAssignment\Assignment6\collectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment\Assignment6\collectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\QueueSample\obj\Debug\net6.0\ref\QueueSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.pdb
+D:\DotNetAssignment\Assignment6\collectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.genruntimeconfig.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\QueueSample\bin\Debug\net6.0\QueueSample.exe
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\QueueSample\bin\Debug\net6.0\QueueSample.deps.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\QueueSample\bin\Debug\net6.0\QueueSample.runtimeconfig.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\QueueSample\bin\Debug\net6.0\QueueSample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\QueueSample\bin\Debug\net6.0\ref\QueueSample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\QueueSample\bin\Debug\net6.0\QueueSample.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.csproj.AssemblyReference.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.AssemblyInfoInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.AssemblyInfo.cs
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.csproj.CoreCompileInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\QueueSample\obj\Debug\net6.0\ref\QueueSample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\QueueSample\obj\Debug\net6.0\QueueSample.genruntimeconfig.cache

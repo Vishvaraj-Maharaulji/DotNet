@@ -1,0 +1,15 @@
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\LambdaExpression\bin\Debug\net6.0\LambdaExpression.exe
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\LambdaExpression\bin\Debug\net6.0\LambdaExpression.deps.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\LambdaExpression\bin\Debug\net6.0\LambdaExpression.runtimeconfig.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\LambdaExpression\bin\Debug\net6.0\LambdaExpression.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\LambdaExpression\bin\Debug\net6.0\ref\LambdaExpression.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\LambdaExpression\bin\Debug\net6.0\LambdaExpression.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\LambdaExpression\obj\Debug\net6.0\LambdaExpression.csproj.AssemblyReference.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\LambdaExpression\obj\Debug\net6.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\LambdaExpression\obj\Debug\net6.0\LambdaExpression.AssemblyInfoInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\LambdaExpression\obj\Debug\net6.0\LambdaExpression.AssemblyInfo.cs
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\LambdaExpression\obj\Debug\net6.0\LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\LambdaExpression\obj\Debug\net6.0\LambdaExpression.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\LambdaExpression\obj\Debug\net6.0\ref\LambdaExpression.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\LambdaExpression\obj\Debug\net6.0\LambdaExpression.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\LambdaExpression\obj\Debug\net6.0\LambdaExpression.genruntimeconfig.cache

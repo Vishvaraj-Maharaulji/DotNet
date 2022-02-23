@@ -1,0 +1,30 @@
+D:\DotNetAssignment\Assignment6\collectionSamples\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.exe
+D:\DotNetAssignment\Assignment6\collectionSamples\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.deps.json
+D:\DotNetAssignment\Assignment6\collectionSamples\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.runtimeconfig.json
+D:\DotNetAssignment\Assignment6\collectionSamples\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\ObservableCollectionSample\bin\Debug\net6.0\ref\ObservableCollectionSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.pdb
+D:\DotNetAssignment\Assignment6\collectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.AssemblyReference.cache
+D:\DotNetAssignment\Assignment6\collectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetAssignment\Assignment6\collectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfoInputs.cache
+D:\DotNetAssignment\Assignment6\collectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfo.cs
+D:\DotNetAssignment\Assignment6\collectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment\Assignment6\collectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ref\ObservableCollectionSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.pdb
+D:\DotNetAssignment\Assignment6\collectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.genruntimeconfig.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.exe
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.deps.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.runtimeconfig.json
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\ObservableCollectionSample\bin\Debug\net6.0\ref\ObservableCollectionSample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.AssemblyReference.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfoInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfo.cs
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.CoreCompileInputs.cache
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ref\ObservableCollectionSample.dll
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.pdb
+C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.genruntimeconfig.cache
