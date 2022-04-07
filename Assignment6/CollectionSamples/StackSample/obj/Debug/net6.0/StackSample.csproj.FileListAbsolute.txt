@@ -28,3 +28,18 @@ C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSa
 C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\ref\StackSample.dll
 C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.pdb
 C:\Users\Vishvaraj Maharaulji\OneDrive\Documents\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.genruntimeconfig.cache
+D:\DOTNET\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\StackSample.exe
+D:\DOTNET\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\StackSample.deps.json
+D:\DOTNET\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\StackSample.runtimeconfig.json
+D:\DOTNET\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\StackSample.dll
+D:\DOTNET\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\ref\StackSample.dll
+D:\DOTNET\Assignment6\CollectionSamples\StackSample\bin\Debug\net6.0\StackSample.pdb
+D:\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.csproj.AssemblyReference.cache
+D:\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfoInputs.cache
+D:\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfo.cs
+D:\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.csproj.CoreCompileInputs.cache
+D:\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.dll
+D:\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\ref\StackSample.dll
+D:\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.pdb
+D:\DOTNET\Assignment6\CollectionSamples\StackSample\obj\Debug\net6.0\StackSample.genruntimeconfig.cache

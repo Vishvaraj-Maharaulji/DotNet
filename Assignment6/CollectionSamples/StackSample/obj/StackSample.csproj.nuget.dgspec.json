@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vishvaraj Maharaulji\\OneDrive\\Documents\\DOTNET\\Assignment6\\CollectionSamples\\StackSample\\StackSample.csproj": {}
+    "D:\\DOTNET\\Assignment6\\CollectionSamples\\StackSample\\StackSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vishvaraj Maharaulji\\OneDrive\\Documents\\DOTNET\\Assignment6\\CollectionSamples\\StackSample\\StackSample.csproj": {
+    "D:\\DOTNET\\Assignment6\\CollectionSamples\\StackSample\\StackSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vishvaraj Maharaulji\\OneDrive\\Documents\\DOTNET\\Assignment6\\CollectionSamples\\StackSample\\StackSample.csproj",
+        "projectUniqueName": "D:\\DOTNET\\Assignment6\\CollectionSamples\\StackSample\\StackSample.csproj",
         "projectName": "StackSample",
-        "projectPath": "C:\\Users\\Vishvaraj Maharaulji\\OneDrive\\Documents\\DOTNET\\Assignment6\\CollectionSamples\\StackSample\\StackSample.csproj",
+        "projectPath": "D:\\DOTNET\\Assignment6\\CollectionSamples\\StackSample\\StackSample.csproj",
         "packagesPath": "C:\\Users\\Vishvaraj Maharaulji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vishvaraj Maharaulji\\OneDrive\\Documents\\DOTNET\\Assignment6\\CollectionSamples\\StackSample\\obj\\",
+        "outputPath": "D:\\DOTNET\\Assignment6\\CollectionSamples\\StackSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vishvaraj Maharaulji\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
